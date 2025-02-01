@@ -1,7 +1,7 @@
 /* -------- FRONT MATTER ---------
 ** Theme: Obsidian Type Four
 ** Version number: 1.0.0
-** GitHub Repo: https://github.com/crashmoney/obsidian-type-four
+** GitHub Repo: https://github.com/aidanastridge/obsidian-type-four
 ** Made by: aidanastridge
 ----------------------------------- */
 
@@ -19,13 +19,6 @@
 
 /* +++ FONT FACES */
 
-@font-face /* iA Writer Mono V */ {
-
-	font-weight: normal;
-	font-style: normal;
-	font-display: swap;
-
-}
 
 /* +++ COLOR VARIABLES */
 body {
