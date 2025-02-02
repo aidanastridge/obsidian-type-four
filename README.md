@@ -24,9 +24,9 @@ Type Four is an [Obsidian](https://obsidian.md/) theme for desktop, mobile and t
 
 Coming Soon!
 
-### What is Ridge Racer Type Four?
+### What is R4: Ridge Racer Type Four?
 
-Developed and published by Namco, Ridge Racer Type 4 was and is an arcade-style racing game released for the PlayStation in 1998 (Japan) and 1999 (North America and Europe). Praised for its slick presentation, music, and gameplay, R4 collasced into a swan-song for the console. 
+Developed and published by Namco, R4: Ridge Racer Type 4 was and is an arcade-style racing game released for the PlayStation in 1998 (Japan) and 1999 (North America and Europe). Praised for its slick presentation, music, and gameplay, R4 collasced into a swan-song for the console. 
 
 ### Thank Yous
 
