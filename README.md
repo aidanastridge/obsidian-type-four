@@ -10,15 +10,15 @@ Type Four is an [Obsidian](https://obsidian.md/) theme for desktop, mobile and t
 <br>
 [Thank Yous]()
 <br>
-[Colors]()
+[Colors](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#colors)
 <br>
-[Classes]()
+[Classes](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#classes)
 <br>
-[Developers]()
+[Developers](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#developers)
 <br>
-[License]()
+[License](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#license)
 <br>
-[Disclaimer]()
+[Disclaimer](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#disclaimer)
 
 ### Installation
 
