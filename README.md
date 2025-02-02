@@ -6,19 +6,19 @@ Type Four is an [Obsidian](https://obsidian.md/) theme for desktop, mobile and t
 
 [Installation](#installation)
 <br>
-[What is Ridger Racer Type Four?](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#what-is-r4-ridge-racer-type-four)
+[What is Ridger Racer Type Four?](#what-is-r4-ridge-racer-type-four)
 <br>
-[Thank Yous](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#thank-yous)
+[Thank Yous](#thank-yous)
 <br>
-[Colors](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#colors)
+[Colors](#colors)
 <br>
-[Classes](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#classes)
+[Classes](#classes)
 <br>
-[Developers](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#developers)
+[Developers](#developers)
 <br>
-[License](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#license)
+[License](#license)
 <br>
-[Disclaimer](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#disclaimer)
+[Disclaimer](#disclaimer)
 
 ### Installation
 
