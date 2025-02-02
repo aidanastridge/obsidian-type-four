@@ -8,7 +8,7 @@ Type Four is an [Obsidian](https://obsidian.md/) theme for desktop, mobile and t
 <br>
 [What is Ridger Racer Type Four?](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#what-is-ridge-racer-type-four)
 <br>
-[Thank Yous]()
+[Thank Yous](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#thank-yous)
 <br>
 [Colors](https://github.com/aidanastridge/obsidian-type-four/blob/main/README.md#colors)
 <br>
