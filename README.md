@@ -30,7 +30,7 @@ Developed and published by Namco, Ridge Racer Type 4 was and is an arcade-style 
 
 ### Thank Yous
 
-First off, thank you to Namco for creating one of the best games ever made; Secondly, thank you Obsidan for an amazing note taking platform with extensive documentation; And lastly, thank you [@kepano](https://github.com/kepano) for your [Minimal](https://github.com/kepano/obsidian-minimal) theme that I used as a framework – I'm learning to use CSS as I create this theme.
+First off, thank you to Namco for creating one of the best games ever made; Secondly, thank you Obsidan for an amazing note taking platform with extensive documentation; And lastly, thank you to [@kepano](https://github.com/kepano) and [@cashmoney](https://github.com/crashmoney) for their [Minimal](https://github.com/kepano/obsidian-minimal) and [Typewriter](https://github.com/crashmoney/obsidian-typewriter) themes respectively that I used as a frameworks (they are also my favorites) – I'm learning to use CSS/SASS as I create this theme!
 
 ### Colors
 
