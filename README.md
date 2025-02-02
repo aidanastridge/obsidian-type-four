@@ -47,7 +47,7 @@ Aidan Astridge – [@aidanastridge](https://github.com/aidanastridge)
 ### License
 
 Type Four for Obsidian apps is licensed under the MIT License which allows you to modify and redistribute the code, however you must preserve the copyright and license notice in your CSS file. This includes any code you may extract as standalone snippets.
-As stated above, I used [@kepano's](https://github.com/kepano) [Minamal](https://github.com/kepano/obsidian-minimal) and [@cashmoney's](https://github.com/crashmoney)[Typewriter](https://github.com/crashmoney/obsidian-typewriter) themes as frameworks. 
+As stated above, I used [@kepano's](https://github.com/kepano) [Minamal](https://github.com/kepano/obsidian-minimal) and [@cashmoney's](https://github.com/crashmoney) [Typewriter](https://github.com/crashmoney/obsidian-typewriter) themes as frameworks. 
 
 ### Disclaimer
 
