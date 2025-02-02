@@ -30,9 +30,9 @@ Developed and published by Namco, Ridge Racer Type 4 was and is an arcade-style 
 
 ### Thank Yous
 
-First off, thank you to Namco for creating one of the best games ever made; Secondly, thank you Obsidan for an amazing note taking platform with extensive documentation; And lastly, thank you to [@kepano](https://github.com/kepano) and [@cashmoney](https://github.com/crashmoney) for their [Minimal](https://github.com/kepano/obsidian-minimal) and [Typewriter](https://github.com/crashmoney/obsidian-typewriter) themes respectively that I used as a frameworks (they are also my favorites) – I'm learning to use CSS/SASS as I create this theme!
+First off, thank you to Namco for creating one of the best games ever made; Secondly, thank you Obsidan for an amazing note taking platform with extensive documentation; And lastly, thank you to [@kepano](https://github.com/kepano) and [@cashmoney](https://github.com/crashmoney) for their [Minimal](https://github.com/kepano/obsidian-minimal) and [Typewriter](https://github.com/crashmoney/obsidian-typewriter) themes respectively that I used as a frameworks (they're also my favourites) – I'm learning to use CSS/SASS as I create this theme!
 
-### Colors
+### Colours
 
 Coming Soon!
 
@@ -53,7 +53,7 @@ As stated above, I used [@kepano's](https://github.com/kepano) [Minamal](https:/
 
 Ridge Racer Type 4 (R4) and all related trademarks, logos, characters, and intellectual property are the property of Bandai Namco Entertainment Inc. This content is provided for informational and discussion purposes only. I am not affiliated with Bandai Namco, nor do I claim ownership of any copyrighted materials related to Ridge Racer Type 4 or the Ridge Racer series. All rights to the game, its assets, and associated media belong to their respective owners.
 
-If you are interested in playing or acquiring Ridge Racer Type 4, please refer to official sources, such as authorized digital stores or physical copies, in compliance with copyright laws.
+If you are interested in playing or acquiring Ridge Racer Type 4, please refer to official sources, such as [authorized digital stores](https://store.playstation.com/en-ca/product/UP0700-CUSA33746_00-SLUS007970000000/) or physical copies, in compliance with copyright laws.
 
 This theme is provided as is, and is designed for my personal use of Obsidian on macOS and Android. As such it is not thoroughly tested across all operating systems and use cases.
 
