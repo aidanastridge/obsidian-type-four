@@ -14,7 +14,6 @@
 |_ UI ELEMENTS
 |_ PLUGINS
 |_ STYLE SETTINGS
-|_ OBSIDIAN HUB
 */
 
 /* +++ FONT FACES */
@@ -39,29 +38,8 @@ body {
   --theme-accent-l: calc(var(--accent-l) - 21.3%);
   --theme-accent-s: calc(var(--accent-s) - 48.1%);
   */
-}
 
-.workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
-	display: none;
-}
-
-svg * {
-	stroke-linecap: square;
-	stroke-linejoin: miter;
-	rx: 0;
-	ry: 0;
-}
-
-.menu {
-	padding: var(--size-2-1);
-}
-
-.menu-item {
-	padding: var(--size-4-1) var(--size-4-2);
-}
-
-.menu-separator {
-	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+  --base_ribbon: 0%;
 }
 
 .theme-dark {
@@ -72,5 +50,9 @@ svg * {
 .theme-light {
 	--background-primary: var(--base-l);
 	--background-secondary: var(--base-l)
+}
+
+.theme-light .side-dock-ribbon {
+background-color: var(--base_ribbon);
 }
 
