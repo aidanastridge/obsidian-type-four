@@ -30,7 +30,7 @@ Developed and published by Namco, R4: Ridge Racer Type 4 was and is an arcade-st
 
 ### Thank Yous
 
-First off, thank you to Namco for creating one of the best games ever made; Secondly, thank you Obsidan for an amazing note-taking platform with [extensive resources](https://docs.obsidian.md/Themes/App+themes/Build+a+theme) and [community hubshub](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Theme+Designers) for creating themes – I'm learning to use CSS/SASS as I create this theme!
+First off, thank you to Namco for creating one of the best games ever made; Secondly, thank you Obsidan for an amazing note-taking platform with [extensive resources](https://docs.obsidian.md/Themes/App+themes/Build+a+theme) and [community hubs](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Theme+Designers) for creating themes – I'm learning to use CSS/SASS as I create this theme!
 
 ### Colours
 
