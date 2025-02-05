@@ -5,92 +5,37 @@
 ** Made by: aidanastridge
 ----------------------------------- */
 
-/* +++ TOC
-|_ FONT FACES
-|_ COLOR VARIABLES
-|_ LIGHT MODE
-|_ DARK MODE
-|_ TYPOGRAPHY & FONTS
-|_ UI ELEMENTS
-|_ PLUGINS
-|_ STYLE SETTINGS
-*/
-
-/* +++ FONT FACES */
 
 
-/* +++ Colour Variables */
 body {
-  --base-lh: #FFBD00;
-  --base-dh: #DDAA4F;
-  --base-s: black;
-  --base-d: #DDAA4F; /* base lightness for dark mode. 0 is black */
-  --base-l: #FFBD00; /* base lightness for light mode. 100 is white */
+/*base colors*/
+--base-l:#FFBD00;
+--base-d:#ECBA5E;
+--base-t:#4C4C4C;
+--base-h:black;
+--base-s:0%;
 
-  /* accents */
-  --theme-accent-h: black;
-  --theme-accent-s: black;
-  --theme-accent-l: black;
-  --theme-accent-d: black;
+
+/*accents*/
+--accent-h:#000000;
+--accent-s:80%;
+--accent-l:25%;
+
+/*extended colors*/
 }
-
-
-.theme-dark {
-	--background-primary: var(--base-d);
-	--background-secondary:var(--base-d);
-  }
 
 .theme-light {
-	--background-primary: var(--base-l);
-	--background-secondary: var(--base-l);
-  --background-primary-alt:var(--base-l);
-  --background-secondary-alt:var(--base-l);
-  --background-translucent: var(--base-);
-  --background-modifier-border-hover: var(--base-lh);
-  --background-modifier-border-focus: var(--base-lh);
-  --background-modifier-form-field: var(--base-lh);
-  --background-modifier-form-highlighted: var(--base-s);
-  --color-accent: var(--base-s);
-  --background-modifier-accent: var(--base-s);
-  --vim-cursor: var(--base-s);
-  --text-accent: var(--base-s);
-  --text-accent-hover: var(--base-s);
-  --text-normal: var(--base-s);
-  --text-muted: var(--base-s);
-  --text-faint: var(--base-s);
-  --text-highlight-bg: var(--base-s);
-  --text-highlight-bg-active: var(--base-s);
-  --text-selection: var(--base-s);
-  --text-on-accent: var(--base-s);
-  --interactive-normal: var(--base-l);
-  --interactive-hover: var(--base-s);
-  --interactive-accent: var(--base-s);
-  --interactive-accent-hover: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-l) - 0%)
-  );
-  --interactive-accent-rgb: 123, 108, 217;
-  --interactive-success: #197300;
-
-  --scrollbar-active-thumb-bg: var(--base-s);
-  --scrollbar-bg: var(--base-s);
-  --scrollbar-thumb-bg:  var(--base-s);
-  --highlight-mix-blend-mode: darken;
-
-  --icon-color: var(--text-muted);
-  --icon-hex: 000;
-
-  --graph-line-color:  var(--base-s);
+--background-primary:var(--base-l);
+--background-secondary:var(--base-t);
 }
 
-/* SIDEBAR NOTES */
-/* make sidebar notes' background var(--background-primary) */
-.theme-light .mod-right-split .markdown-preview-view,
-.mod-left-split .markdown-preview-view,
-.mod-right-split .markdown-source-view.mod-cm6 .cm-scroller,
-.mod-left-split .markdown-source-view.mod-cm6 .cm-scroller {
-  background-color: var(--background-primary);
+.theme-dark {
+--background-primary:var(--base-d);
+--background-secondary:var(--base-t);
 }
 
+.workspace-ribbon.mod-left.is-collapsed {
+background-color: #000000;
+}
 
+/**/
