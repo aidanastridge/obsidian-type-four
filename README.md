@@ -6,6 +6,8 @@ Type Four is an [Obsidian](https://obsidian.md/) theme for desktop, mobile and t
 
 [Installation](#installation)
 <br>
+[Preface](#preface)
+<br>
 [What is Ridger Racer Type Four?](#what-is-r4-ridge-racer-type-four)
 <br>
 [Thank Yous](#thank-yous)
@@ -31,6 +33,10 @@ Developed and published by Namco, R4: Ridge Racer Type 4 was and is an arcade-st
 ### Thank Yous
 
 First off, thank you to Namco for creating one of the best games ever made; Secondly, thank you Obsidan for an amazing note-taking platform with [extensive resources](https://docs.obsidian.md/Themes/App+themes/Build+a+theme) and [community hubs](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Theme+Designers) for creating themes – I'm learning to use CSS/SASS as I create this theme!
+
+### Preface
+
+R4: Ridge Racer Type Four's UI is beautiful, but it could become exuasting for how long someone might use Obsidian; Concessions had to be made o it was pleasing to the eye.  
 
 ### Colours
 
