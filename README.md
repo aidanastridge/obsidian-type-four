@@ -36,7 +36,7 @@ First off, thank you to Namco for creating one of the best games ever made; Seco
 
 ### Preface
 
-R4: Ridge Racer Type Four's UI is beautiful, but it could become exuasting for how long someone might use Obsidian; Concessions had to be made o it was pleasing to the eye.  
+R4: Ridge Racer Type Four's UI is beautiful, but it could become exuasting for how long someone might use Obsidian; Concessions had to be made so it was pleasing to the eye.  
 
 ### Colours
 
