@@ -6,11 +6,11 @@ Type Four is an [Obsidian](https://obsidian.md/) theme for desktop, mobile and t
 
 [Installation](#installation)
 <br>
-[Preface](#preface)
-<br>
 [What is Ridger Racer Type Four?](#what-is-r4-ridge-racer-type-four)
 <br>
 [Thank Yous](#thank-yous)
+<br>
+[Preface](#preface)
 <br>
 [Colors](#colors)
 <br>
