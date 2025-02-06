@@ -6,36 +6,44 @@
 ----------------------------------- */
 
 
-
 body {
-/*base colors*/
---base-l:#FFBD00;
---base-d:#ECBA5E;
---base-t:#4C4C4C;
---base-h:black;
---base-s:0%;
-
-
-/*accents*/
---accent-h:#000000;
---accent-s:80%;
---accent-l:25%;
-
-/*extended colors*/
 }
 
 .theme-light {
---background-primary:var(--base-l);
---background-secondary:var(--base-t);
+
+/*Colors*/
+
+--color-base-l:#fcce72;
+--color-base-la:#FFBD00;
+--color-base-s:#fcc73d;
+--color-base-sa:#f7b539;
+--status-bar-text-color: #ffffff;
+--icon-color: #000000;
+--text-normal: #000000;
+
+--background-primary:var(--color-base-l);
+--background-primary-alt:var(--color-base-la);
+--background-secondary:var(--color-base-s);
+--background-secondary-alt:var(--color-base-s);
+--background-modifier-hover:var(--color-base-sa);
+--background-modifier-border-focus:var(--color-base-sa);
+--background-modifier-border:black;
+--background-modifier-border-hover:#000000;
+--background-modifier-border-focus:#f7b539;
+--interactive-normal:#f7b539;
+--text-normal:black;
 }
 
 .theme-dark {
---background-primary:var(--base-d);
---background-secondary:var(--base-t);
 }
 
-.workspace-ribbon.mod-left.is-collapsed {
-background-color: #000000;
+.workspace-ribbon{
+background-color: #faab0c;
 }
 
-/**/
+.status-bar {
+background-color: #525252;
+}
+
+
+
