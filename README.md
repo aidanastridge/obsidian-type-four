@@ -36,6 +36,8 @@ First off, thank you to Namco for creating one of the best games ever made; Seco
 
 ### Preface
 
+![Ridge Racer Type 4 UI](http://url/to/img.png)
+
 R4: Ridge Racer Type Four's UI is beautiful, but it could become exuasting for how long someone might use Obsidian; Concessions had to be made so it was pleasing to the eye.  
 
 ### Colours
