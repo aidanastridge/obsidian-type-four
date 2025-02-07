@@ -1,13 +1,17 @@
 /* FRONT MATTER: Obsidian Type Four, Version 1.0.0, by aidanastridge */
 
-.theme-light {
-  /* Colors */
-  --color-base-l: #fcce72;
-  --color-base-la: #FFBD00;
-  --color-base-s: #fcc73d;
-  --color-base-sa: #f7b539;
+body {
+  --color-base-l: #EED687;
+  --color-base-d:;
+  --color-base-la: #F3C042;
+  --color-base-s: #F3C042;
+  --color-base-sa: #E67F33;
   --color-black: #000000;
   --status-bar-text-color: #ffffff;
+}
+  
+.theme-light {
+
   --icon-color: #000000;
   --text-normal: #000000;
 
@@ -20,7 +24,7 @@
   --background-modifier-border-focus: var(--color-base-sa);
   --background-modifier-border: var(--color-black);
   --background-modifier-border-hover: var(--color-black);
-  --background-modifier-border-focus: #f7b539;
+  --background-modifier-border-focus: #F3C042;
 
   /* Interactive elements */
   --interactive-normal: #f7b539;
@@ -28,11 +32,11 @@
 }
 
 .workspace-ribbon {
-  background-color: #faab0c;
+  background-color: #E67F33;
 }
 
 .status-bar {
-  background-color: #525252;
+  background-color: #4B4D4C;
 }
 
 
