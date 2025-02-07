@@ -36,6 +36,8 @@ First off, thank you to Namco for creating one of the best games ever made; Seco
 
 ### Preface
 
+![Ridge Racer Type 4 UI](https://github.com/aidanastridge/obsidian-type-four/blob/main/Wonderhill.jpeg)
+
 R4: Ridge Racer Type Four's UI is beautiful, but it could become exuasting for how long someone might use Obsidian; Concessions had to be made so it was pleasing to the eye.  
 
 ### Colours
@@ -58,7 +60,7 @@ Type Four for Obsidian apps is licensed under the MIT License which allows you t
 
 Ridge Racer Type 4 (R4) and all related trademarks, logos, characters, and intellectual property are the property of Bandai Namco Entertainment Inc. This content is provided for informational and discussion purposes only. I am not affiliated with Bandai Namco, nor do I claim ownership of any copyrighted materials related to Ridge Racer Type 4 or the Ridge Racer series. All rights to the game, its assets, and associated media belong to their respective owners.
 
-If you are interested in playing or acquiring Ridge Racer Type 4, please refer to official sources, such as [authorized digital stores](https://store.playstation.com/en-ca/product/UP0700-CUSA33746_00-SLUS007970000000/) or physical copies, in compliance with copyright laws.
+If you are interested in playing or acquiring Ridge Racer Type 4, please refer to official sources, such as [authorized digital stores](https://store.playstation.com/en-ca/concept/10005099/) or physical copies, in compliance with copyright laws.
 
 This theme is provided as is, and is designed for my personal use of Obsidian on macOS and Android. As such it is not thoroughly tested across all operating systems and use cases.
 
