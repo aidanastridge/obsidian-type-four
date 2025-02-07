@@ -1,49 +1,40 @@
-/* -------- FRONT MATTER ---------
-** Theme: Obsidian Type Four
-** Version number: 1.0.0
-** GitHub Repo: https://github.com/aidanastridge/obsidian-type-four
-** Made by: aidanastridge
------------------------------------ */
-
-
-body {
-}
+/* FRONT MATTER: Obsidian Type Four, Version 1.0.0, by aidanastridge */
 
 .theme-light {
+  /* Colors */
+  --color-base-l: #fcce72;
+  --color-base-la: #FFBD00;
+  --color-base-s: #fcc73d;
+  --color-base-sa: #f7b539;
+  --color-black: #000000;
+  --status-bar-text-color: #ffffff;
+  --icon-color: #000000;
+  --text-normal: #000000;
 
-/*Colors*/
+  /* Background and border modifiers */
+  --background-primary: var(--color-base-l);
+  --background-primary-alt: var(--color-base-la);
+  --background-secondary: var(--color-base-s);
+  --background-secondary-alt: var(--color-base-s);
+  --background-modifier-hover: var(--color-base-sa);
+  --background-modifier-border-focus: var(--color-base-sa);
+  --background-modifier-border: var(--color-black);
+  --background-modifier-border-hover: var(--color-black);
+  --background-modifier-border-focus: #f7b539;
 
---color-base-l:#fcce72;
---color-base-la:#FFBD00;
---color-base-s:#fcc73d;
---color-base-sa:#f7b539;
---status-bar-text-color: #ffffff;
---icon-color: #000000;
---text-normal: #000000;
-
---background-primary:var(--color-base-l);
---background-primary-alt:var(--color-base-la);
---background-secondary:var(--color-base-s);
---background-secondary-alt:var(--color-base-s);
---background-modifier-hover:var(--color-base-sa);
---background-modifier-border-focus:var(--color-base-sa);
---background-modifier-border:black;
---background-modifier-border-hover:#000000;
---background-modifier-border-focus:#f7b539;
---interactive-normal:#f7b539;
---text-normal:black;
+  /* Interactive elements */
+  --interactive-normal: #f7b539;
+  --text-normal: black;
 }
 
-.theme-dark {
-}
-
-.workspace-ribbon{
-background-color: #faab0c;
+.workspace-ribbon {
+  background-color: #faab0c;
 }
 
 .status-bar {
-background-color: #525252;
+  background-color: #525252;
 }
+
 
 
 
