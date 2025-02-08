@@ -1,23 +1,19 @@
 /* FRONT MATTER: Obsidian Type Four, Version 1.0.0, by aidanastridge */
 
 body {
-
 /*Colors*/
   --color-base-l: #EED687;
-  --color-base-d:;
+  --color-base-d:#CECECF;
   --color-base-y: #F3C042;
   --color-base-y-1: #F3C042;
   --color-base-y-2: #E67F33;
   --color-b: #000000;
   --color-w:#ffffff;  
   --color-g:#4B4D4C;
+  
 }
   
 .theme-light {
-
-  --icon-color: var(--color-b);
-  --text-normal: var(--color-b);
-
   /* Background and border modifiers */
   --background-primary: var(--color-base-l);
   --background-primary-alt: var(--color-base-y);
@@ -28,15 +24,24 @@ body {
   --background-modifier-border: var(--color-b);
   --background-modifier-border-hover: var(--color-b);
   --background-modifier-border-focus: var(--color-base-y-1);
+  --background-modifier-success:var(--color-base-y-1);
 
-  
   /* Interactive elements */
   --interactive-normal: var(--color-base-y-1);
+  --interactive-hover:var(--color-base-y-2);
+  --interactive-accent:var(--color-base-y-2);
+  --interactive-accent-hover:var(--color-b);
+
+/*Text*/
   --text-normal: var(--color-b);
+  --text-muted:var(--color-b);
+  --text-faint:var(--color-b);
+  --text-selection:var(--color-b);
+  --caret-color:var(--color-b);
 }
 
 .theme-dark {
-
+  --background-primary: var(--color-base-d);
 }
 
 .workspace-ribbon {
