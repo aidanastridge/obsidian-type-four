@@ -1,42 +1,49 @@
 /* FRONT MATTER: Obsidian Type Four, Version 1.0.0, by aidanastridge */
 
 body {
+
+/*Colors*/
   --color-base-l: #EED687;
   --color-base-d:;
-  --color-base-la: #F3C042;
-  --color-base-s: #F3C042;
-  --color-base-sa: #E67F33;
-  --color-black: #000000;
-  --status-bar-text-color: #ffffff;
+  --color-base-y: #F3C042;
+  --color-base-y-1: #F3C042;
+  --color-base-y-2: #E67F33;
+  --color-b: #000000;
+  --color-w:#ffffff;  
 }
   
 .theme-light {
 
-  --icon-color: #000000;
-  --text-normal: #000000;
+  --icon-color: var(--color-b);
+  --text-normal: var(--color-b);
 
   /* Background and border modifiers */
   --background-primary: var(--color-base-l);
-  --background-primary-alt: var(--color-base-la);
-  --background-secondary: var(--color-base-s);
-  --background-secondary-alt: var(--color-base-s);
-  --background-modifier-hover: var(--color-base-sa);
-  --background-modifier-border-focus: var(--color-base-sa);
-  --background-modifier-border: var(--color-black);
-  --background-modifier-border-hover: var(--color-black);
-  --background-modifier-border-focus: #F3C042;
+  --background-primary-alt: var(--color-base-y);
+  --background-secondary: var(--color-base-y-1);
+  --background-secondary-alt: var(--color-base-y-1);
+  --background-modifier-hover: var(--color-base-y-2);
+  --background-modifier-border-focus: var(--color-base-y-2);
+  --background-modifier-border: var(--color-b);
+  --background-modifier-border-hover: var(--color-b);
+  --background-modifier-border-focus: var(--color-base-y-1);
 
   /* Interactive elements */
-  --interactive-normal: #f7b539;
-  --text-normal: black;
+  --interactive-normal: var(--color-base-y-1);
+  --text-normal: var(--color-b);
+}
+
+.theme-dark {
+
 }
 
 .workspace-ribbon {
-  background-color: #E67F33;
+  background-color: var(--color-base-y-2);
 }
 
 .status-bar {
   background-color: #4B4D4C;
+  --status-bar-text-color: var(--color-w);
 }
 
 
