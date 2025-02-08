@@ -10,6 +10,7 @@ body {
   --color-base-y-2: #E67F33;
   --color-b: #000000;
   --color-w:#ffffff;  
+  --color-g:#4B4D4C;
 }
   
 .theme-light {
@@ -28,6 +29,7 @@ body {
   --background-modifier-border-hover: var(--color-b);
   --background-modifier-border-focus: var(--color-base-y-1);
 
+  
   /* Interactive elements */
   --interactive-normal: var(--color-base-y-1);
   --text-normal: var(--color-b);
@@ -42,7 +44,7 @@ body {
 }
 
 .status-bar {
-  background-color: #4B4D4C;
+  background-color: var(--color-g);
   --status-bar-text-color: var(--color-w);
 }
 
