@@ -3,7 +3,7 @@
 body {
 /*Colors*/
   --color-base-l: #EED687;
-  --color-base-d:#CECECF;
+  --color-base-d:#003459;
   --color-base-y: #F3C042;
   --color-base-y-1: #F3C042;
   --color-base-y-2: #E67F33;
@@ -22,7 +22,7 @@ body {
   --background-modifier-hover: var(--color-base-y-2);
   --background-modifier-border-focus: var(--color-base-y-2);
   --background-modifier-border: var(--color-b);
-  --background-modifier-border-hover: var(--color-b);
+  --background-modifier-border-hover: var(--color-y1);
   --background-modifier-border-focus: var(--color-base-y-1);
   --background-modifier-success:var(--color-base-y-1);
 
@@ -42,9 +42,12 @@ body {
 
 .theme-dark {
   --background-primary: var(--color-base-d);
+  --background-primary-alt: var(--color-base-y);
+  --background-secondary: #011e33;
+  --background-secondary-alt: var(--color-base-y-1);
 }
 
-.workspace-ribbon {
+.theme-light .workspace-ribbon {
   background-color: var(--color-base-y-2);
 }
 
@@ -53,6 +56,9 @@ body {
   --status-bar-text-color: var(--color-w);
 }
 
+.theme-dark .workspace-ribbon {
+  background-color: var(--color-b);
+}
 
 
 
